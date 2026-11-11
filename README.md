@@ -1,77 +1,89 @@
 <div align="center">
 
-# ASHKNIGHTS
-
-### QinShiro
-
-**Building tools for the GTPS community.**
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:080808,50:17140D,100:080808&text=ASHKNIGHTS&fontColor=E5C77A&fontSize=54&fontAlignY=42&desc=QinShiro%20%2F%20GTPS%20%26%20Discord%20Projects&descSize=16&descAlignY=66&descColor=C8B77E" width="100%" alt="Ashknights — QinShiro" />
 
 <br>
 
-<img src="https://img.shields.io/badge/NODE.JS-111111?style=for-the-badge&logo=nodedotjs&logoColor=F5D38A" alt="Node.js" />
-<img src="https://img.shields.io/badge/DISCORD-111111?style=for-the-badge&logo=discord&logoColor=F5D38A" alt="Discord" />
-<img src="https://img.shields.io/badge/GTPS-111111?style=for-the-badge&labelColor=111111&color=F5D38A" alt="GTPS" />
+**Independent builder creating tools for the GTPS community.**
 
-<br><br>
+<br>
 
-[**Join the Discord**](https://discord.gg/XjDdNct6JR)
-&nbsp;·&nbsp;
-[**Invite the bot**](https://discord.com/oauth2/authorize?client_id=1450780644748558447&permissions=1116960058514&scope=bot%20applications.commands)
-&nbsp;·&nbsp;
-[**Visit my website**](https://ashknight.my.id)
+[ WEBSITE ](https://ashknight.my.id) &nbsp;·&nbsp;
+[ DISCORD COMMUNITY ](https://discord.gg/XjDdNct6JR) &nbsp;·&nbsp;
+[ GITHUB ](https://github.com/Qinshiro)
 
 </div>
 
----
+<br>
 
-## ABOUT
+## ━━ SELECTED WORK
 
-I build Discord bots and websites for the **Growtopia Private Server community**.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-My projects focus on making GTPS server information easier to access, improving the experience around Discord bots, and creating a marketplace for the community.
+### 01 / GTPS BOT
 
----
+A Discord bot for making GTPS server information easier to check.
 
-## PROJECTS
-
-### 01 · GTPS Discord Bot
-
-A Discord bot designed to make GTPS server information easier to check, including uptime and server status.
-
-[**View repository →**](https://github.com/Qinshiro/BOT-V4)
-&nbsp;·&nbsp;
-[**Invite the bot →**](https://discord.com/oauth2/authorize?client_id=1450780644748558447&permissions=1116960058514&scope=bot%20applications.commands)
-
----
-
-### 02 · Discord Bot Website
-
-A companion website for the Discord bot, featuring an automatically loaded command list, command descriptions, and bot information.
-
-[**Visit website →**](https://ashknight.my.id)
-&nbsp;·&nbsp;
-[**View repository →**](https://github.com/Qinshiro/Discord-Policy-Terms)
-
----
-
-### 03 · GTPS Market
-
-A marketplace website made for the GTPS community.
-
-[**View repository →**](https://github.com/Qinshiro/GTPS-Market)
-
----
-
-## COMMUNITY
-
-Join the Discord server to connect with the community and follow the projects.
-
-<div align="center">
-
-[<img src="https://img.shields.io/badge/JOIN%20THE%20DISCORD-111111?style=for-the-badge&logo=discord&logoColor=F5D38A" alt="Join the Discord server" />](https://discord.gg/XjDdNct6JR)
+**Uptime · Server status · GTPS**
 
 <br>
 
-**Three projects. One community. Built with intent.**
+[ **SOURCE CODE ↗** ](https://github.com/Qinshiro/BOT-V4)
+
+<br>
+
+[ **INVITE BOT ↗** ](https://discord.com/oauth2/authorize?client_id=1450780644748558447&permissions=1116960058514&scope=bot%20applications.commands)
+
+</td>
+<td width="33%" valign="top">
+
+### 02 / BOT WEBSITE
+
+A companion website for the Discord bot, with automatically loaded commands, command descriptions, and bot information.
+
+**Commands · Documentation · Bot info**
+
+<br>
+
+[ **VISIT WEBSITE ↗** ](https://ashknight.my.id)
+
+<br>
+
+[ **SOURCE CODE ↗** ](https://github.com/Qinshiro/Discord-Policy-Terms)
+
+</td>
+<td width="33%" valign="top">
+
+### 03 / GTPS MARKET
+
+A marketplace website made for the Growtopia Private Server community.
+
+**GTPS · Marketplace · Community**
+
+<br><br>
+
+[ **SOURCE CODE ↗** ](https://github.com/Qinshiro/GTPS-Market)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## ━━ FOCUS
+
+`NODE.JS` &nbsp; `DISCORD BOTS` &nbsp; `GTPS` &nbsp; `WEB PROJECTS`
+
+<br>
+
+<div align="center">
+
+**Built for the community. Made with intent.**
+
+<br>
+
+[ **JOIN THE DISCORD COMMUNITY** ](https://discord.gg/XjDdNct6JR)
 
 </div>
