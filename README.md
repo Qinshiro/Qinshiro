@@ -1,33 +1,77 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=F5D38A&center=true&vCenter=true&width=900&lines=ASHKNIGHTS;QINSHIRO;CRAFTED+WITH+INTENT" alt="ASHKNIGHTS / QINSHIRO" />
-</p>
+<div align="center">
 
-<h3 align="center" style="color:#F5D38A;">
-  Luxury in execution. Clarity in thought.
-</h3>
+# ASHKNIGHTS
 
-<p align="center">
-  <a href="https://github.com/QinShiro">
-    <img src="https://img.shields.io/badge/GitHub-QinShiro-111111?style=for-the-badge&logo=github&logoColor=F5D38A" />
-  </a>
-</p>
+### QinShiro
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Design-Precision-F5D38A?style=flat-square&logoColor=111111" />
-  <img src="https://img.shields.io/badge/Build-Systems-FFFFFF?style=flat-square&logoColor=111111" />
-  <img src="https://img.shields.io/badge/Execution-Craft-F5D38A?style=flat-square&logoColor=111111" />
-</p>
+**Building tools for the GTPS community.**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QinShiro&show_icons=true&theme=tokyonight&hide_border=true&title_color=F5D38A&icon_color=F5D38A&text_color=FFFFFF&bg_color=0d1117" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QinShiro&theme=tokyonight&hide_border=true&ring=F5D38A&fire=F5D38A&currStreakLabel=F5D38A" />
-</p>
+<img src="https://img.shields.io/badge/NODE.JS-111111?style=for-the-badge&logo=nodedotjs&logoColor=F5D38A" alt="Node.js" />
+<img src="https://img.shields.io/badge/DISCORD-111111?style=for-the-badge&logo=discord&logoColor=F5D38A" alt="Discord" />
+<img src="https://img.shields.io/badge/GTPS-111111?style=for-the-badge&labelColor=111111&color=F5D38A" alt="GTPS" />
 
-<hr width="320" color="#F5D38A">
+<br><br>
 
-<p align="center">
-  Quiet confidence. Thoughtful work.
-</p>
+[**Join the Discord**](https://discord.gg/XjDdNct6JR)
+&nbsp;·&nbsp;
+[**Invite the bot**](https://discord.com/oauth2/authorize?client_id=1450780644748558447&permissions=1116960058514&scope=bot%20applications.commands)
+&nbsp;·&nbsp;
+[**Visit my website**](https://ashknight.my.id)
+
+</div>
+
+---
+
+## ABOUT
+
+I build Discord bots and websites for the **Growtopia Private Server community**.
+
+My projects focus on making GTPS server information easier to access, improving the experience around Discord bots, and creating a marketplace for the community.
+
+---
+
+## PROJECTS
+
+### 01 · GTPS Discord Bot
+
+A Discord bot designed to make GTPS server information easier to check, including uptime and server status.
+
+[**View repository →**](https://github.com/Qinshiro/BOT-V4)
+&nbsp;·&nbsp;
+[**Invite the bot →**](https://discord.com/oauth2/authorize?client_id=1450780644748558447&permissions=1116960058514&scope=bot%20applications.commands)
+
+---
+
+### 02 · Discord Bot Website
+
+A companion website for the Discord bot, featuring an automatically loaded command list, command descriptions, and bot information.
+
+[**Visit website →**](https://ashknight.my.id)
+&nbsp;·&nbsp;
+[**View repository →**](https://github.com/Qinshiro/Discord-Policy-Terms)
+
+---
+
+### 03 · GTPS Market
+
+A marketplace website made for the GTPS community.
+
+[**View repository →**](https://github.com/Qinshiro/GTPS-Market)
+
+---
+
+## COMMUNITY
+
+Join the Discord server to connect with the community and follow the projects.
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/JOIN%20THE%20DISCORD-111111?style=for-the-badge&logo=discord&logoColor=F5D38A" alt="Join the Discord server" />](https://discord.gg/XjDdNct6JR)
+
+<br>
+
+**Three projects. One community. Built with intent.**
+
+</div>
