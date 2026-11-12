@@ -141,16 +141,11 @@ A marketplace that brings GTPS-related products and services into a structured, 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Qinshiro&show_icons=true&hide_border=true&bg_color=080808&title_color=E5C77A&text_color=C8C8C8&icon_color=B89B5E&ring_color=B89B5E" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qinshiro&layout=compact&hide_border=true&bg_color=080808&title_color=E5C77A&text_color=C8C8C8" alt="Most Used Languages" />
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=Qinshiro&hide_border=true&background=080808&ring=E5C77A&fire=B89B5E&currStreakLabel=E5C77A&sideLabels=C8C8C8&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Qinshiro&bg_color=080808&color=C8C8C8&line=B89B5E&point=E5C77A&area=true&area_color=B89B5E&hide_border=true" alt="Contribution Graph" />
+<img src="https://ghchart.rshah.org/B89B5E/Qinshiro" alt="Contribution Chart" width="90%" />
 
 </div>
 
