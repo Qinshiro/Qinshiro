@@ -3,11 +3,8 @@
 
 
 
-
-
-<div align="center">
-ASHKNIGHTS
-BUILDING TOOLS. CONNECTING COMMUNITIES.
+<div align="center"><h1>✦ ASHKNIGHTS ✦</h1>
+BUILDING TOOLS · CONNECTING COMMUNITIES
 QinShiro · Independent Developer · Community Builder
 
 Discord Automation · GTPS Infrastructure · Modern Web Experiences
@@ -21,7 +18,7 @@ Discord Automation · GTPS Infrastructure · Modern Web Experiences
 
 
 <img src="https://komarev.com/ghpvc/?username=Qinshiro&amp;style=flat-square&amp;color=B89B5E&amp;label=PROFILE+VIEWS" alt="GitHub Profile Views" />
-BUILT FOR THE COMMUNITY. MADE WITH INTENT.
+<strong>OBSIDIAN GOLD · BUILT WITH PURPOSE</strong>
 
 </div>
 01 / ABOUT
@@ -39,72 +36,9 @@ I believe software should be intuitive, reliable, maintainable, and designed to 
 Build with purpose. Improve with consistency.
 
 02 / FEATURED PROJECTS
-Projects centered on community automation, server tools, and web experiences.
-
-⚡ GTPS BOT V4
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-B89B5E?style=flat-square&amp;labelColor=171717" alt="GTPS Bot V4 In Development" />
-Discord Automation & GTPS Management
-
-A Discord bot built to simplify GTPS server monitoring, community administration, and access to server-related information. It brings utilities directly into Discord so communities can work without constantly switching platforms.
-
-Core capabilities
-
-📡 Server information & monitoring — Status, uptime, and operational information.
-🧰 GTPS utilities — Commands for GTPS-related information and activities.
-💬 Discord commands — Slash and prefix command integrations.
-👥 Community management — Tools for administrators and members.
-🧩 Extensible structure — Designed to accommodate new commands and features.
-Technology: Node.js · JavaScript · discord.js · SQLite · GTPS APIs
-
-<a href="https://discord.com/oauth2/authorize?client_id=1450780644748558447&amp;permissions=1116960058514&amp;scope=bot%20applications.commands"><img src="https://img.shields.io/badge/INVITE_BOT-B89B5E?style=for-the-badge&amp;logo=discord&amp;logoColor=080808" alt="Invite GTPS Bot" /></a>
-<a href="https://github.com/Qinshiro/BOT-V4"><img src="https://img.shields.io/badge/REPOSITORY-202020?style=for-the-badge&amp;logo=github&amp;logoColor=E5C77A" alt="GTPS Bot Repository" /></a>
-
-<sub>Bot availability depends on its current hosting status. Repository access may be restricted.</sub>
-
-
-🌐 BOT WEBSITE
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-B89B5E?style=flat-square&amp;labelColor=171717" alt="Bot Website In Development" />
-Discord Bot Companion & Documentation Platform
-
-A centralized web experience for exploring bot functionality, finding commands, reading policies, and discovering community resources outside Discord.
-
-Core capabilities
-
-⚙️ Command discovery — Organized information about available commands.
-📖 Command references — Descriptions that help members use bot features.
-ℹ️ Bot information & policies — A clear destination for essential information.
-🔎 Accessible web interface — Resources available from a browser.
-🔗 Community connections — Quick access to relevant links and support.
-Project focus: Web Platform · Documentation · Discord · Automation
-
-<a href="https://ashknight.my.id"><img src="https://img.shields.io/badge/LIVE_WEBSITE-B89B5E?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=080808" alt="Open Live Bot Website" /></a>
-<a href="https://github.com/Qinshiro/Discord-Policy-Terms"><img src="https://img.shields.io/badge/REPOSITORY-202020?style=for-the-badge&amp;logo=github&amp;logoColor=E5C77A" alt="Bot Website Repository" /></a>
-
-
-🛒 GTPS MARKET
-<img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-B89B5E?style=flat-square&amp;labelColor=171717" alt="GTPS Market In Development" />
-Modern Marketplace Ecosystem for GTPS Communities
-
-An evolving marketplace project designed to organize GTPS-related products and services through a modern storefront, with a longer-term vision for connected community and server tools.
-
-Platform development & roadmap
-
-🎨 Modern storefront — Responsive catalog, product details, and categories.
-🗂️ Product discovery — Structured listings and browsing.
-🌍 Localization — Planned Indonesian and English language preferences.
-💱 Multi-currency display — Planned USD, EUR, and IDR preferences.
-🔐 Accounts & data — Authentication, PostgreSQL, Prisma, and planned role-based controls.
-💳 Payment options — Planned manual payment workflows and Midtrans integration.
-☁️ GTPS Cloud connectivity — Planned server-related integrations.
-🤖 Discord connectivity — Planned GTPS BOT V4 integration.
-🛠️ Administration — Planned tools for products, settings, and operations.
-Development stack: Next.js · TypeScript · React · Tailwind CSS · PostgreSQL · Prisma · Vercel
-
-<a href="https://github.com/Qinshiro/GTPS-Market"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-B89B5E?style=for-the-badge&amp;logo=github&amp;logoColor=080808" alt="Explore GTPS Market Repository" /></a>
-
-<sub>Roadmap items describe planned capabilities, not necessarily features available today.</sub>
-
-03 / LIVE DEMOS
+<p>Projects centered on community automation, server tools, and modern web experiences.</p><table width="100%"> <tr><td><p><sub>ASHKNIGHTS / FEATURED PROJECT 01</sub></p> <h3>⚡ GTPS BOT V4</h3> <p><strong>Discord Automation &amp; GTPS Management</strong></p> <p><img alt="IN DEVELOPMENT" src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-B89B5E?style=flat-square&amp;labelColor=171717" /></p> <p>A Discord bot built to simplify GTPS server monitoring, community administration, and access to server-related information. It brings useful tools directly into Discord so communities can work without constantly switching platforms.</p> <h4>✦ Core Capabilities</h4> <ul> <li><strong>Server information &amp; monitoring</strong> — Status, uptime, and operational information</li> <li><strong>GTPS utilities</strong> — Commands for GTPS-related information and activities</li> <li><strong>Discord commands</strong> — Slash and prefix command integrations</li> <li><strong>Community management</strong> — Tools for administrators and members</li> <li><strong>Extensible structure</strong> — Designed for future commands and features</li> </ul> <h4>✦ Technology &amp; Stack</h4> <p><code>Node.js · JavaScript · discord.js · SQLite · GTPS APIs</code></p> <p><a href="https://discord.com/oauth2/authorize?client_id=1450780644748558447&amp;permissions=1116960058514&amp;scope=bot%20applications.commands"><img alt="INVITE BOT" src="https://img.shields.io/badge/INVITE_BOT-B89B5E?style=for-the-badge&amp;logo=discord&amp;logoColor=080808" /></a> <a href="https://github.com/Qinshiro/BOT-V4"><img alt="SOURCE CODE" src="https://img.shields.io/badge/SOURCE_CODE-202020?style=for-the-badge&amp;logo=github&amp;logoColor=E5C77A" /></a></p> <p><sub>Bot availability depends on hosting status; repository access may be restricted.</sub></p></td></tr> </table>
+<table width="100%"> <tr><td><p><sub>ASHKNIGHTS / FEATURED PROJECT 02</sub></p> <h3>🌐 BOT WEBSITE</h3> <p><strong>Discord Bot Companion &amp; Documentation Platform</strong></p> <p><img alt="WEBSITE LIVE" src="https://img.shields.io/badge/STATUS-WEBSITE_LIVE-B89B5E?style=flat-square&amp;labelColor=171717" /></p> <p>A centralized web experience for exploring bot functionality, finding commands, reading policies, and discovering community resources outside Discord.</p> <h4>✦ Core Capabilities</h4> <ul> <li><strong>Command discovery</strong> — Organized information about available commands</li> <li><strong>Command references</strong> — Descriptions to help members use bot features</li> <li><strong>Bot information &amp; policies</strong> — A clear destination for essential information</li> <li><strong>Accessible web interface</strong> — Resources available directly from a browser</li> <li><strong>Community connections</strong> — Quick access to relevant links and support</li> </ul> <h4>✦ Technology &amp; Stack</h4> <p><code>Web Platform · Documentation · Discord · Automation</code></p> <p><a href="https://ashknight.my.id"><img alt="LIVE WEBSITE" src="https://img.shields.io/badge/LIVE_WEBSITE-B89B5E?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=080808" /></a> <a href="https://github.com/Qinshiro/Discord-Policy-Terms"><img alt="PROJECT REPOSITORY" src="https://img.shields.io/badge/PROJECT_REPOSITORY-202020?style=for-the-badge&amp;logo=github&amp;logoColor=E5C77A" /></a></p> <p><sub>The public website is available; individual sections may still be under development.</sub></p></td></tr> </table>
+<table width="100%"> <tr><td><p><sub>ASHKNIGHTS / FEATURED PROJECT 03</sub></p> <h3>🛒 GTPS MARKET</h3> <p><strong>Modern Marketplace Ecosystem for GTPS Communities</strong></p> <p><img alt="IN DEVELOPMENT" src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-B89B5E?style=flat-square&amp;labelColor=171717" /></p> <p>An evolving marketplace project designed to organize GTPS-related products and services through a modern storefront, with a longer-term vision for connected community and server tools.</p> <h4>✦ Core Capabilities</h4> <ul> <li><strong>Modern storefront</strong> — Responsive catalog, product details, and categories</li> <li><strong>Product discovery</strong> — Structured listings and browsing</li> <li><strong>Localization</strong> — Planned Indonesian and English preferences</li> <li><strong>Multi-currency display</strong> — Planned USD, EUR, and IDR preferences</li> <li><strong>Accounts &amp; data</strong> — Authentication, PostgreSQL, Prisma, and planned roles</li> <li><strong>Payment options</strong> — Planned manual workflows and Midtrans integration</li> <li><strong>GTPS Cloud connectivity</strong> — Planned server-related integrations</li> <li><strong>Discord connectivity</strong> — Planned GTPS BOT V4 integration</li> <li><strong>Administration</strong> — Planned product, settings, and operations tools</li> </ul> <h4>✦ Technology &amp; Stack</h4> <p><code>Next.js · TypeScript · React · Tailwind CSS · PostgreSQL · Prisma · Vercel</code></p> <p><a href="https://github.com/Qinshiro/GTPS-Market"><img alt="EXPLORE PROJECT" src="https://img.shields.io/badge/EXPLORE_PROJECT-B89B5E?style=for-the-badge&amp;logo=github&amp;logoColor=080808" /></a></p> <p><sub>Roadmap items describe planned capabilities, not necessarily features available today.</sub></p></td></tr> </table><br> ## 03 / LIVE DEMOS
 Explore the projects beyond the code.
 
 <a href="https://ashknight.my.id"><img src="https://img.shields.io/badge/ASHKNIGHTS_WEBSITE-LIVE-B89B5E?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=080808" alt="Open Live AshKnights Website" /></a>
