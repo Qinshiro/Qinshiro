@@ -47,7 +47,7 @@ and **full-stack web projects**, turning ideas into reliable, maintainable softw
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ GTPS BOT V4
+### ⚡ GTPS BOT V4 &nbsp;<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-E5C77A?style=flat-square&labelColor=171717" />
 
 **Discord Automation & Server Utilities**
 
@@ -71,7 +71,7 @@ A Discord bot built to simplify GTPS server monitoring, information access, and 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 BOT WEBSITE
+### 🌐 BOT WEBSITE &nbsp;<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-E5C77A?style=flat-square&labelColor=171717" />
 
 **Discord Bot Companion Platform**
 
