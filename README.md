@@ -1,176 +1,227 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=145&color=0:080808,100:211C10&text=ASHKNIGHTS&fontColor=E5C77A&fontSize=42&fontAlignY=48" width="100%" alt="ASHKNIGHTS" />
-
-### QinShiro · Independent Developer
-
-**Building tools. Connecting communities.**
-
-Discord Automation · GTPS · Web Development
-
-<br>
-
-<a href="https://ashknight.my.id"><img src="https://img.shields.io/badge/WEBSITE-B89B5E?style=for-the-badge&logo=googlechrome&logoColor=080808" alt="Website" /></a>
-<a href="https://discord.gg/XjDdNct6JR"><img src="https://img.shields.io/badge/DISCORD-202020?style=for-the-badge&logo=discord&logoColor=E5C77A" alt="Discord" /></a>
-
-<a href="https://github.com/Qinshiro?tab=repositories"><img src="https://img.shields.io/badge/ALL_PROJECTS-202020?style=for-the-badge&logo=github&logoColor=E5C77A" alt="All projects" /></a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Qinshiro&style=flat-square&color=B89B5E&label=PROFILE+VIEWS" alt="Profile views" />
-
-</div>
-
----
-
-## 01 — ABOUT
-
-**QinShiro** · Independent Developer  
-**Focus:** Discord Bots, GTPS & Web Development  
-**Approach:** Build · Refine · Maintain
-
-I create practical tools and digital experiences for online communities, with a focus on usability, reliability, and maintainable code.
-
-> **Built for the community. Designed to evolve.**
-
----
-
-## 02 — FEATURED PROJECTS
-
-### ⚡ GTPS BOT V4
-
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-E5C77A?style=flat-square&labelColor=171717" alt="In development" />
-
-**Discord Automation & Community Utilities**
-
-A Discord bot for GTPS information, automation, and community management.
-
-- 📡 Server information and monitoring
-- 🧰 GTPS-related utilities
-- 💬 Slash and prefix commands
-- 👥 Community tools
-
-<a href="https://discord.com/oauth2/authorize?client_id=1450780644748558447&permissions=1116960058514&scope=bot%20applications.commands"><img src="https://img.shields.io/badge/INVITE_BOT-B89B5E?style=for-the-badge&logo=discord&logoColor=080808" alt="Invite bot" /></a>
-<a href="https://github.com/Qinshiro/BOT-V4"><img src="https://img.shields.io/badge/REPOSITORY-202020?style=for-the-badge&logo=github&logoColor=E5C77A" alt="Bot repository" /></a>
-
-<br>
-
-### 🌐 BOT WEBSITE
-
-<img src="https://img.shields.io/badge/WEBSITE-LIVE-B89B5E?style=flat-square&labelColor=171717" alt="Website live" />
-
-**Discord Bot Companion Platform**
-
-A public website for bot information, policies, and project resources.
-
-- 📖 Information and documentation
-- ⚙️ Bot features and commands
-- ℹ️ Policies and community resources
-
-<a href="https://ashknight.my.id"><img src="https://img.shields.io/badge/LIVE_DEMO-B89B5E?style=for-the-badge&logo=googlechrome&logoColor=080808" alt="Live website" /></a>
-<a href="https://github.com/Qinshiro/Discord-Policy-Terms"><img src="https://img.shields.io/badge/REPOSITORY-202020?style=for-the-badge&logo=github&logoColor=E5C77A" alt="Website repository" /></a>
-
-<br>
-
-### 🛒 GTPS MARKET
-
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-E5C77A?style=flat-square&labelColor=171717" alt="In development" />
-
-**Marketplace for the GTPS Community**
-
-A marketplace project focused on GTPS-related products and services.
-
-- 🎨 Responsive storefront
-- 🗂️ Listings and categories
-- 🌍 Localization and currency preferences
-- 🔐 Authentication and data management
-- 🔗 Future Discord and GTPS integrations
-
-<a href="https://github.com/Qinshiro/GTPS-Market"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-B89B5E?style=for-the-badge&logo=github&logoColor=080808" alt="GTPS Market repository" /></a>
-
----
-
-## 03 — LIVE DEMOS
-
-**Explore what is available now.**
-
-### 🌐 AshKnights Website
-
-Public website and bot information.
-
-<a href="https://ashknight.my.id"><img src="https://img.shields.io/badge/OPEN_WEBSITE-B89B5E?style=for-the-badge&logo=googlechrome&logoColor=080808" alt="Open website" /></a>
-
-### 🤖 Discord Bot
-
-Invite link available; bot features and uptime may vary during development.
-
-<a href="https://discord.com/oauth2/authorize?client_id=1450780644748558447&permissions=1116960058514&scope=bot%20applications.commands"><img src="https://img.shields.io/badge/INVITE_BOT-202020?style=for-the-badge&logo=discord&logoColor=E5C77A" alt="Invite bot" /></a>
-
-**Coming later:** GTPS Market demo and AshKnights Dashboard.
-
----
-
-## 04 — DOCUMENTATION
-
-Find project information and available guides through these links:
-
-- 🌐 **[Main Website](https://ashknight.my.id)** — Information, policies, and resources
-- ⚡ **[GTPS Bot Repository](https://github.com/Qinshiro/BOT-V4)** — Bot project and available README
-- 📖 **[Website Repository](https://github.com/Qinshiro/Discord-Policy-Terms)** — Website project information
-- 🛒 **[GTPS Market Repository](https://github.com/Qinshiro/GTPS-Market)** — Marketplace development
-- 💬 **[Discord Community](https://discord.gg/XjDdNct6JR)** — Community and support
-
-> Dedicated documentation and a separate docs subdomain are planned, not yet published.
-
----
-
-## 05 — TECH STACK
-
-**Languages & Runtime**
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,lua&theme=dark" alt="JavaScript, TypeScript, Node.js, Lua" />
-
-**Web Development**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" alt="Next.js, React, Tailwind CSS, HTML, CSS" />
-
-**Database & Tools**
-
-<img src="https://skillicons.dev/icons?i=sqlite,postgres,prisma,git,github,vscode,vercel&theme=dark" alt="SQLite, PostgreSQL, Prisma, Git, GitHub, VS Code, Vercel" />
-
----
-
-## 06 — GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Qinshiro&hide_border=true&background=080808&ring=E5C77A&fire=B89B5E&currStreakLabel=E5C77A&sideLabels=C8C8C8&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" alt="GitHub contribution streak" />
+<img width="100%" alt="ASHKNIGHTS — QinShiro" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080808,50:1C180F,100:080808&text=ASHKNIGHTS&fontColor=E5C77A&fontSize=56&fontAlignY=39&desc=QinShiro%20%2F%20Developer%20%26%20Community%20Builder&descSize=16&descAlignY=60&descColor=C8B77E&animation=fadeIn" />
 
 <br>
 
-<img src="https://ghchart.rshah.org/B89B5E/Qinshiro" width="100%" alt="GitHub contribution chart" />
+### BUILDING TOOLS. CONNECTING COMMUNITIES.
 
-</div>
-
----
-
-## 07 — CONNECT
-
-<div align="center">
-
-### Let's build something meaningful.
-
-Interested in Discord automation, GTPS, or community-focused projects?
-
-<a href="https://discord.gg/XjDdNct6JR"><img src="https://img.shields.io/badge/JOIN_DISCORD-B89B5E?style=for-the-badge&logo=discord&logoColor=080808" alt="Join Discord" /></a>
-<a href="https://ashknight.my.id"><img src="https://img.shields.io/badge/VISIT_WEBSITE-202020?style=for-the-badge&logo=googlechrome&logoColor=E5C77A" alt="Visit website" /></a>
+<sub>
+Independent developer building Discord automation,
+GTPS tools, and modern web experiences.
+</sub>
 
 <br><br>
 
-<sub>© 2026 ASHKNIGHTS · Built by QinShiro</sub>
+<a href="https://ashknight.my.id">
+  <img alt="Website" src="https://img.shields.io/badge/WEBSITE-171717?style=for-the-badge&logo=googlechrome&logoColor=E5C77A" />
+</a>
+<a href="https://discord.gg/XjDdNct6JR">
+  <img alt="Discord" src="https://img.shields.io/badge/COMMUNITY-171717?style=for-the-badge&logo=discord&logoColor=E5C77A" />
+</a>
+<a href="https://github.com/Qinshiro">
+  <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=E5C77A" />
+</a>
 
-**Built for the community. Designed to evolve.**
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&color=0:080808,50:17140D,100:080808" width="100%" alt="AshKnights footer" />
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Qinshiro&style=flat-square&color=B89B5E&label=PROFILE+VIEWS" />
+
+</div>
+
+<br>
+
+<h2>01 / ABOUT</h2>
+
+```yaml
+identity: QinShiro / ASHKNIGHTS
+role: Independent Developer
+focus:
+  - Discord Bots & Automation
+  - GTPS Tools & Integrations
+  - Web Applications
+principle: Build with purpose. Improve with consistency.
+```
+
+I build practical tools and connected experiences for the
+**Growtopia Private Server community**.
+
+My projects focus on making information more accessible,
+automating repetitive workflows, and creating maintainable
+platforms for communities.
+
+<br>
+
+<h2>02 / SELECTED WORK</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>01 — GTPS BOT V4</h3>
+
+<b>Discord Automation & GTPS Utilities</b>
+
+<br><br>
+
+A Discord bot built to make GTPS server information
+and community tools easier to access.
+
+<br><br>
+
+<code>Node.js</code> <code>Discord.js</code> <code>GTPS</code>
+
+<br><br>
+
+<a href="https://github.com/Qinshiro/BOT-V4">
+  <img alt="Source code" src="https://img.shields.io/badge/SOURCE_CODE-B89B5E?style=flat-square&logo=github&logoColor=080808" />
+</a>
+<a href="https://discord.com/oauth2/authorize?client_id=1450780644748558447&permissions=1116960058514&scope=bot%20applications.commands">
+  <img alt="Invite bot" src="https://img.shields.io/badge/INVITE_BOT-202020?style=flat-square&logo=discord&logoColor=E5C77A" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>02 — BOT WEBSITE</h3>
+
+<b>Discord Bot Companion Platform</b>
+
+<br><br>
+
+A companion website featuring bot information,
+automatically loaded commands, and documentation.
+
+<br><br>
+
+<code>Web</code> <code>Documentation</code> <code>Discord</code>
+
+<br><br>
+
+<a href="https://ashknight.my.id">
+  <img alt="Live website" src="https://img.shields.io/badge/LIVE_WEBSITE-B89B5E?style=flat-square&logo=googlechrome&logoColor=080808" />
+</a>
+<a href="https://github.com/Qinshiro/Discord-Policy-Terms">
+  <img alt="Source code" src="https://img.shields.io/badge/SOURCE_CODE-202020?style=flat-square&logo=github&logoColor=E5C77A" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top">
+
+<h3>03 — GTPS MARKET</h3>
+
+<b>Marketplace Platform for the GTPS Community</b>
+
+<br><br>
+
+A modern marketplace project focused on GTPS-related
+products, localized storefront experiences, and future
+integrations with GTPS infrastructure and Discord.
+
+<br>
+
+<b>Development focus</b>
+
+<ul>
+<li>Modern storefront and product catalog</li>
+<li>Localization and currency preferences</li>
+<li>Authentication, database, and role-based access</li>
+<li>GTPS Cloud and Discord integrations</li>
+</ul>
+
+<code>Next.js</code> <code>TypeScript</code>
+<code>PostgreSQL</code> <code>Prisma</code>
+
+<br><br>
+
+<img alt="In development" src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-252017?style=flat-square&labelColor=171717&color=B89B5E" />
+
+<a href="https://github.com/Qinshiro/GTPS-Market">
+  <img alt="Explore project" src="https://img.shields.io/badge/EXPLORE_PROJECT-B89B5E?style=flat-square&logo=github&logoColor=080808" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2>03 / TECHNOLOGY</h2>
+
+<div align="center">
+
+<b>LANGUAGES & RUNTIME</b>
+
+<br><br>
+
+<img alt="JavaScript, TypeScript, Node.js and Lua" src="https://skillicons.dev/icons?i=js,ts,nodejs,lua&theme=dark" />
+
+<br><br>
+
+<b>WEB DEVELOPMENT</b>
+
+<br><br>
+
+<img alt="Next.js, React, Tailwind CSS, HTML and CSS" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" />
+
+<br><br>
+
+<b>DATABASE & TOOLING</b>
+
+<br><br>
+
+<img alt="PostgreSQL, Prisma, Git, GitHub, VS Code and Vercel" src="https://skillicons.dev/icons?i=postgres,prisma,git,github,vscode,vercel&theme=dark" />
+
+</div>
+
+<br>
+
+<h2>04 / GITHUB ACTIVITY</h2>
+
+<div align="center">
+
+<img width="49%" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Qinshiro&show_icons=true&hide_border=true&bg_color=080808&title_color=E5C77A&text_color=C8C8C8&icon_color=B89B5E&ring_color=B89B5E" />
+<img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qinshiro&layout=compact&hide_border=true&bg_color=080808&title_color=E5C77A&text_color=C8C8C8" />
+
+<br><br>
+
+<img width="75%" alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=Qinshiro&hide_border=true&background=080808&ring=E5C77A&fire=B89B5E&currStreakLabel=E5C77A&sideLabels=C8C8C8&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
+
+<br>
+
+<h2>05 / COMMUNITY</h2>
+
+<div align="center">
+
+Building software is only part of the process.
+
+The bigger goal is creating tools that people
+can actually use, improve, and build upon.
+
+<br><br>
+
+<a href="https://discord.gg/XjDdNct6JR">
+  <img alt="Join Discord community" src="https://img.shields.io/badge/JOIN_THE_DISCORD_COMMUNITY-B89B5E?style=for-the-badge&logo=discord&logoColor=080808" />
+</a>
+
+<br><br>
+
+<b>BUILT FOR THE COMMUNITY. MADE WITH INTENT.</b>
+
+<br><br>
+
+<sub>© 2026 ASHKNIGHTS · Crafted by QinShiro</sub>
+
+<br>
+
+<img width="100%" alt="Footer decoration" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:080808,50:1C180F,100:080808" />
 
 </div>
